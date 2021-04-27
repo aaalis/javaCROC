@@ -1,0 +1,27 @@
+[
+  {
+    "idSeller": 1,
+    "firstName": "Петр",
+    "lastName": "Петров"
+  },
+  {
+    "idSeller": 2,
+    "firstName": "Иван",
+    "lastName": "Иванов"
+  },
+  {
+    "idSeller": 3,
+    "firstName": "Алексей",
+    "lastName": "Алексеев"
+  },
+  {
+    "idSeller": 4,
+    "firstName": "Григорий",
+    "lastName": "Григорьев"
+  },
+  {
+    "idSeller": 5,
+    "firstName": "Симон",
+    "lastName": "Симонов"
+  }
+]

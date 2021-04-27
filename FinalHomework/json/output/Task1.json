@@ -1,0 +1,62 @@
+[
+  {
+    "good": {
+      "idGood": 1,
+      "name": "Карандаш"
+    },
+    "seller": {
+      "idSeller": 5,
+      "firstName": "Симон",
+      "lastName": "Симонов"
+    },
+    "price": 29.0
+  },
+  {
+    "good": {
+      "idGood": 2,
+      "name": "Ручка"
+    },
+    "seller": {
+      "idSeller": 1,
+      "firstName": "Петр",
+      "lastName": "Петров"
+    },
+    "price": 48.0
+  },
+  {
+    "good": {
+      "idGood": 3,
+      "name": "Тетрадь"
+    },
+    "seller": {
+      "idSeller": 2,
+      "firstName": "Иван",
+      "lastName": "Иванов"
+    },
+    "price": 16.0
+  },
+  {
+    "good": {
+      "idGood": 4,
+      "name": "Линейка"
+    },
+    "seller": {
+      "idSeller": 3,
+      "firstName": "Алексей",
+      "lastName": "Алексеев"
+    },
+    "price": 24.0
+  },
+  {
+    "good": {
+      "idGood": 5,
+      "name": "Канцелярский нож"
+    },
+    "seller": {
+      "idSeller": 4,
+      "firstName": "Григорий",
+      "lastName": "Григорьев"
+    },
+    "price": 99.0
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "idSeller": 1,
+    "idGood": 1,
+    "price": 30.0,
+    "quantityGoods": 250
+  },
+  {
+    "idSeller": 1,
+    "idGood": 2,
+    "price": 48.0,
+    "quantityGoods": 300
+  },
+  {
+    "idSeller": 1,
+    "idGood": 3,
+    "price": 20.0,
+    "quantityGoods": 200
+  },
+  {
+    "idSeller": 1,
+    "idGood": 4,
+    "price": 25.0,
+    "quantityGoods": 150
+  },
+  {
+    "idSeller": 1,
+    "idGood": 5,
+    "price": 100.0,
+    "quantityGoods": 100
+  },
+  {
+    "idSeller": 2,
+    "idGood": 1,
+    "price": 31.0,
+    "quantityGoods": 260
+  },
+  {
+    "idSeller": 2,
+    "idGood": 2,
+    "price": 51.0,
+    "quantityGoods": 310
+  },
+  {
+    "idSeller": 2,
+    "idGood": 3,
+    "price": 16.0,
+    "quantityGoods": 210
+  },
+  {
+    "idSeller": 2,
+    "idGood": 4,
+    "price": 26.0,
+    "quantityGoods": 160
+  },
+  {
+    "idSeller": 2,
+    "idGood": 5,
+    "price": 110.0,
+    "quantityGoods": 110
+  },
+  {
+    "idSeller": 3,
+    "idGood": 1,
+    "price": 32.0,
+    "quantityGoods": 270
+  },
+  {
+    "idSeller": 3,
+    "idGood": 2,
+    "price": 52.0,
+    "quantityGoods": 320
+  },
+  {
+    "idSeller": 3,
+    "idGood": 3,
+    "price": 22.0,
+    "quantityGoods": 220
+  },
+  {
+    "idSeller": 3,
+    "idGood": 4,
+    "price": 24.0,
+    "quantityGoods": 170
+  },
+  {
+    "idSeller": 3,
+    "idGood": 5,
+    "price": 120.0,
+    "quantityGoods": 120
+  },
+  {
+    "idSeller": 4,
+    "idGood": 1,
+    "price": 33.0,
+    "quantityGoods": 280
+  },
+  {
+    "idSeller": 4,
+    "idGood": 2,
+    "price": 53.0,
+    "quantityGoods": 330
+  },
+  {
+    "idSeller": 4,
+    "idGood": 3,
+    "price": 23.0,
+    "quantityGoods": 230
+  },
+  {
+    "idSeller": 4,
+    "idGood": 4,
+    "price": 28.0,
+    "quantityGoods": 180
+  },
+  {
+    "idSeller": 4,
+    "idGood": 5,
+    "price": 99.0,
+    "quantityGoods": 130
+  },
+  {
+    "idSeller": 5,
+    "idGood": 1,
+    "price": 29.0,
+    "quantityGoods": 290
+  },
+  {
+    "idSeller": 5,
+    "idGood": 2,
+    "price": 49.0,
+    "quantityGoods": 340
+  },
+  {
+    "idSeller": 5,
+    "idGood": 3,
+    "price": 19.0,
+    "quantityGoods": 240
+  },
+  {
+    "idSeller": 5,
+    "idGood": 4,
+    "price": 25.0,
+    "quantityGoods": 190
+  },
+  {
+    "idSeller": 5,
+    "idGood": 5,
+    "price": 140.0,
+    "quantityGoods": 140
+  }
+]

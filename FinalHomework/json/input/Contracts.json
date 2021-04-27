@@ -1,0 +1,477 @@
+[
+  {
+    "idContract": 1,
+    "idSeller": 1,
+    "idGood": 1,
+    "quantityGood": 15,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 14
+      },
+      "time": {
+        "hour": 11,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 2,
+    "idSeller": 1,
+    "idGood": 5,
+    "quantityGood": 5,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 14
+      },
+      "time": {
+        "hour": 12,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 3,
+    "idSeller": 1,
+    "idGood": 2,
+    "quantityGood": 6,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 12
+      },
+      "time": {
+        "hour": 7,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 4,
+    "idSeller": 1,
+    "idGood": 4,
+    "quantityGood": 8,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 12
+      },
+      "time": {
+        "hour": 12,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 5,
+    "idSeller": 1,
+    "idGood": 3,
+    "quantityGood": 3,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 11
+      },
+      "time": {
+        "hour": 16,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 6,
+    "idSeller": 2,
+    "idGood": 1,
+    "quantityGood": 9,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 13
+      },
+      "time": {
+        "hour": 13,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 7,
+    "idSeller": 2,
+    "idGood": 5,
+    "quantityGood": 2,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 11
+      },
+      "time": {
+        "hour": 8,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 8,
+    "idSeller": 2,
+    "idGood": 2,
+    "quantityGood": 12,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 15
+      },
+      "time": {
+        "hour": 17,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 9,
+    "idSeller": 2,
+    "idGood": 4,
+    "quantityGood": 11,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 15
+      },
+      "time": {
+        "hour": 13,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 10,
+    "idSeller": 2,
+    "idGood": 3,
+    "quantityGood": 14,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 11
+      },
+      "time": {
+        "hour": 15,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 11,
+    "idSeller": 3,
+    "idGood": 1,
+    "quantityGood": 16,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 8
+      },
+      "time": {
+        "hour": 12,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 12,
+    "idSeller": 3,
+    "idGood": 5,
+    "quantityGood": 1,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 13
+      },
+      "time": {
+        "hour": 13,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 13,
+    "idSeller": 3,
+    "idGood": 2,
+    "quantityGood": 15,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 14
+      },
+      "time": {
+        "hour": 9,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 14,
+    "idSeller": 3,
+    "idGood": 4,
+    "quantityGood": 5,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 11
+      },
+      "time": {
+        "hour": 11,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 15,
+    "idSeller": 3,
+    "idGood": 3,
+    "quantityGood": 13,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 10
+      },
+      "time": {
+        "hour": 10,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 16,
+    "idSeller": 4,
+    "idGood": 1,
+    "quantityGood": 6,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 14
+      },
+      "time": {
+        "hour": 13,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 17,
+    "idSeller": 4,
+    "idGood": 5,
+    "quantityGood": 11,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 13
+      },
+      "time": {
+        "hour": 15,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 18,
+    "idSeller": 4,
+    "idGood": 2,
+    "quantityGood": 10,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 11
+      },
+      "time": {
+        "hour": 9,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 19,
+    "idSeller": 4,
+    "idGood": 4,
+    "quantityGood": 1,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 11
+      },
+      "time": {
+        "hour": 8,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 20,
+    "idSeller": 4,
+    "idGood": 3,
+    "quantityGood": 20,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 11
+      },
+      "time": {
+        "hour": 15,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 21,
+    "idSeller": 5,
+    "idGood": 1,
+    "quantityGood": 10,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 13
+      },
+      "time": {
+        "hour": 12,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 22,
+    "idSeller": 5,
+    "idGood": 5,
+    "quantityGood": 15,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 13
+      },
+      "time": {
+        "hour": 8,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 23,
+    "idSeller": 5,
+    "idGood": 2,
+    "quantityGood": 8,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 14
+      },
+      "time": {
+        "hour": 9,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 24,
+    "idSeller": 5,
+    "idGood": 4,
+    "quantityGood": 1,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 11
+      },
+      "time": {
+        "hour": 7,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  },
+  {
+    "idContract": 25,
+    "idSeller": 5,
+    "idGood": 3,
+    "quantityGood": 20,
+    "dateTime": {
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 12
+      },
+      "time": {
+        "hour": 16,
+        "minute": 10,
+        "second": 26,
+        "nano": 554801500
+      }
+    }
+  }
+]
